@@ -6,7 +6,10 @@ public class Prac01 {
 		System.out.println("안녕? 나는 조장이야");
 		System.out.println("안녕? 나는 조원이야");
 		
+
 		System.out.println("조원 두번째");
+
+		System.out.println("두번째");
 	}
 
 }
