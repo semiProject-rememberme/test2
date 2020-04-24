@@ -9,7 +9,7 @@ public class Prac01 {
 
 		System.out.println("조원 두번째");
 
-		System.out.println("두번째");
+		System.out.println("두번째"); 
 	}
 
 }
